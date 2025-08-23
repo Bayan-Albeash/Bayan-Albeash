@@ -1,8 +1,8 @@
 # Hi there 👋! I am Bayan Albeash
 
-### Data Science| machine learning Enthusiast | AI engennering 🌱
+### Data Science| machine learning Enthusiast | AI engennering 
 
-Welcome to my GitHub profile! I am a passionate AI student at Zarqa University, focusing on data science, machine learning, and building insightful projects. Want to see my latest updates? Check them out in my repositories! 😊
+Welcome to my GitHub profile! I am a passionate AI student at Zarqa University, focusing on data science, machine learning, and building insightful projects. Want to see my latest updates? Check them out in my repositories! 
 
 - [Bayan's LinkedIn](https://www.linkedin.com/in/bayan-albeash-103b932a5/)
 
@@ -30,6 +30,6 @@ I am a dedicated learner with a focus on data science and machine learning. I lo
 - 📧 Email: [albeashbayan@gmail.com](mailto:albeashbayan@gmail.com)
 - 🌐 [GitHub Profile](https://github.com/Bayan-Albeash)
 
-## Fun Fact 😄
-I enjoy exploring new datasets and turning them into meaningful visualizations! 🌟
+## Fun Fact 
+I enjoy exploring new datasets and turning them into meaningful visualizations! 
 -->
