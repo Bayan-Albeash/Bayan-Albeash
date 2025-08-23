@@ -1,6 +1,6 @@
 # Hi there 👋! I am Bayan Albeash
 
-### Software Engineering | Data Science Enthusiast 🌱
+### Data Science and machine learning Enthusiast | AI engennering 🌱
 
 Welcome to my GitHub profile! I am a passionate AI student at Zarqa University, focusing on data science, machine learning, and building insightful projects. Want to see my latest updates? Check them out in my repositories! 😊
 
